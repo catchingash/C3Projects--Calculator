@@ -1,4 +1,5 @@
 # Calculator Exercise
+Ashley Watkins
 
 ## Breakfast
 Build a calculator command line interface (CLI) that allows a user to perform simple arithmetic. The program should ask for an operation (addition, subtraction, multiplication, division) and two numbers, then give the result of applying the operation to the two numbers.
